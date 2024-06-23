@@ -51,8 +51,6 @@ function EditProduct() {
       }
     };
 
-    console.log("Caiu aqui");
-
     fetchProductData();
   }, []);
 
