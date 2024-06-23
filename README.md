@@ -1,5 +1,7 @@
 # Para Rodar o projeto:
 
+# `npm install`
+
 # `npm start`
 
 # Instalado react-router-dom para rotas
